@@ -1,0 +1,15 @@
+#*.png
+#*.meta
+#*.apk
+*.*
+!*.gitignore
+!*.cs
+!*.csproj
+!*.sln
+
+/RogueLikeUnity/*/
+!/RogueLikeUnity/Assets/
+/RogueLikeUnity/Assets/README
+/RogueLikeUnity/Assets/*/
+!/RogueLikeUnity/Assets/Scripts/
+#!*/*.gitignore

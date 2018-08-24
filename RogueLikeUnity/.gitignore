@@ -1,0 +1,14 @@
+#!*.csproj
+#!*.sln
+#/.vs/
+#/AssetBundles/
+#/Library/
+#/ProjectSettings/
+#/RogueLikeUnity/
+#/Temp/
+#/WebGL/
+#/X64/
+#/X64_Data/
+#/Assets/
+#!/Assets/Scripts/
+
