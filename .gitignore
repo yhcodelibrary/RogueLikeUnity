@@ -2,6 +2,7 @@
 #*.meta
 #*.apk
 *.*
+!/test.txt
 !*.gitignore
 !*.cs
 !*.csproj
